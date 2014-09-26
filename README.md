@@ -9,4 +9,4 @@ This is just an experiment on using unexpected display methods. It assumes a
 keyboard like this ![Expected keyboard layout](http://cdn.instructables.com/F6Y/XWAF/FOVWMANA/F6YXWAFFOVWMANA.LARGE.jpg)
 
 It works on Linux only (tested on Ubuntu) and your LEDs may or may not go back
-to normal. In they don't, just press the key that turns them on and off again.
+to normal. In case they don't, just press the key that turns them on and off again.
